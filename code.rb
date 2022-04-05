@@ -74,3 +74,19 @@ my_hash.merge!('key': value)
 
 # Raises "Use `size` instead of `count`"
 [1, 2, 3].count
+  
+-----BEGIN RSA PRIVATE KEY-----
+MIICXQIBAAKBgQCooRwSO7MCTPL7BCCTpsJmElSL+QqnPMb1vH/oXdS9mdFP7yU3
+Ge0wo6TX6gUPzV2/90MnMRfcfx6agc7M9RawDIgbIhEMPBex9GOyDbqiJgllfffW
+WKzKTTiTunH96GRcxh3jCvT0VwSgCtTgKVnZxDuUxalChUGeVvHE2c0KVwIDAQAB
+AoGAAhzKkjvnOS8nmBdsJQ1gwBCYuIwtIv0y7N8opwuN37YulhbD25Xaj9Js/Tt0
+Rsdm1kHNuI734o5BHuRjZ9PmLdcwYrpywf1kAfEPn3FldB+ItwHDJUbRtyaBxNVQ
+JCzkrKBsNVA0E01tCP7QVibyWrfByzSP7H6rqB/qdhyC6VkCQQDjJo5iZbzqZYDr
+xdp0FmpLQ+dJSkAon0ffgUpu/SgJhL0n3lrYtzvshSmG2INejc2S30FTHxWevoww
+4KhXEBajAkEAvgvTlRxcrk5OonojXX5TnCWs1Eecb1qJh+7+vtX4KNINqJbsKRPH
+ieLM73VbdOPZpOJrCMtTsST3d0SNZWucvQJBAL664DGlBaS3iDHw1wZE0AnUwX7b
+ttWlMN9uG4boUNb1OzMf1J5F9S4bfgv4/w3E+cmKZrqZzjiV/PcJnLBGFQsCQQCY
+oHTfZvTEBB3A/ShT2LWbTOKdZZmsEGEtq3Ipnzv6xJ+1iufFIZ56DYyar3ywxqCv
+fCuL14eyV8bqoUKRdjhdAkAejwvszZLfREIZR3niV+SLnKkZ8QAvVo0xbiBsPJqp
+Huz1NZoYs+XYpfZ1L6Ayaoa30j/4S1Dcu/IvBycjJj6u
+-----END RSA PRIVATE KEY-----
