@@ -8,6 +8,7 @@
 a = { 'hello' => 'world', 'testing' => BigDecimal.new(123.456, 3) }
 
 # Raises "`while`/`until` detected in `begin` block"
+# Hello world
 begin
   do_something
 end while a == b
