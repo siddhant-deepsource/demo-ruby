@@ -42,6 +42,10 @@ end
 # Raises "top level return with argument detected"
 return 1
 
+def hello
+  return
+end
+
 # Raises "duplicate elsif block detected"
 if x == 1
   do_something
