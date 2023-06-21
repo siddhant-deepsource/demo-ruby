@@ -16,8 +16,6 @@ end while a == b
 x < y < z
 10 <= x <= 20
 
-
-
 # Raises "empty rescue block detected"
 begin
   bar
