@@ -11,7 +11,6 @@ a = { 'hello' => 'world', 'testing' => BigDecimal.new(123.456, 3) }
 begin
   do_something
 end while a == b
-
   # Raises "multiple comparison detected"
 x < y < z
 10 <= x <= 20
