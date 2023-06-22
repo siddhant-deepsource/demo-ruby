@@ -13,7 +13,7 @@ begin
   do_something
 end while a == b
   # Raises "multiple comparison detected"
-x < y < z
+x < y && y < z
 10 <= x <= 20
 
 # Raises "empty rescue block detected"
